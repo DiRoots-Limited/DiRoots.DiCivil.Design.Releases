@@ -9,4 +9,4 @@ permalink: /docs/dicivil-manage
 
 DiCivil Manage documentation now lives in a dedicated guide:
 
-- [Open DiCivil Manage User Guide](https://docs.dicivilManage.diroots.com/)
+- [Open DiCivil Manage User Guide](https://docs.dicivil-manage.diroots.com/)

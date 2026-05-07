@@ -19,4 +19,4 @@ DiCivil Design includes:
 
 Looking for DiCivil Manage documentation? Visit:
 
-- [DiCivil Manage User Guide](https://docs.dicivilManage.diroots.com/)
+- [DiCivil Manage User Guide](https://docs.dicivil-manage.diroots.com/)
