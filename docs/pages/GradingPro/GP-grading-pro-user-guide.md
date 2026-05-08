@@ -2,7 +2,6 @@
 layout: default
 title: Grading Pro User Guide
 nav_order: 4
-parent: DiCivil Design
 has_children: true
 permalink: /docs/grading-pro-user-guide
 ---

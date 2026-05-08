@@ -2,7 +2,6 @@
 layout: default
 title: Auto Annotation User Guide
 nav_order: 7
-parent: DiCivil Design
 has_children: true
 permalink: /docs/auto-annotation-user-guide
 ---

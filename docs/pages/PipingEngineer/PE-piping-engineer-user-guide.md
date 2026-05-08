@@ -2,7 +2,6 @@
 layout: default
 title: Piping Engineer User Guide
 nav_order: 6
-parent: DiCivil Design
 has_children: true
 permalink: /docs/piping-engineer-user-guide
 ---

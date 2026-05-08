@@ -2,7 +2,6 @@
 layout: default
 title: Earthwork Tool User Guide
 nav_order: 5
-parent: DiCivil Design
 has_children: true
 permalink: /docs/earthwork-tool-user-guide
 ---

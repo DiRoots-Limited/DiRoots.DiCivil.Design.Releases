@@ -1,22 +1,18 @@
-A single application bundle that includes 8 free Civil 3D Plugins to boost your productivity. 
-DiCivil provides users, different tools to help design and manage their data to get your job done faster and better.
+A product that includes 4 Civil 3D tools to boost your productivity.
+DiCivil Design provides tools focused on civil design workflows.
 
-### Included in DiCivil bundle
+### Included in DiCivil Design
 - Grading Pro
 - Earthwork Tool
 - Piping Engineer
-- Style Helper
-- Template Inspector
-- Drawing Layers
-- Transfer Object Layer
-- Transfer Survey Standards
+- Auto Annotation
 
 
 ### Supported Civil 3D Versions
 2022, 2023, 2024, 2025, 2026 and 2027.
 
 ### Useful links
-[Videos & Documentation](https://docs.dicivil.diroots.com/)
+[Videos & Documentation](https://docs.dicivil-design.diroots.com/)
 [Provide Feedback](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
 [Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
 
