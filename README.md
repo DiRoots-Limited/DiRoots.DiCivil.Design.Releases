@@ -13,7 +13,7 @@ DiCivil provides users, different tools to help design and manage their data to 
 
 
 ### Supported Civil 3D Versions
-2022, 2023, 2024, 2025, and 2026.
+2022, 2023, 2024, 2025, 2026 and 2027.
 
 ### Useful links
 [Videos & Documentation](https://docs.dicivil.diroots.com/)
