@@ -29,3 +29,5 @@ DiCivil includes multiple Autodesk Civil 3D Plugins to boost your productivity. 
 
 
 [Download](https://diroots.com/civil3d-plugins/dicivil/){: .btn .btn-di-orange }
+
+Looking for DiCivil Manage documentation? Visit [docs.dicivil-manage.diroots.com](https://docs.dicivil-manage.diroots.com).

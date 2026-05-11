@@ -1,5 +1,5 @@
-A product that includes 4 Civil 3D tools to boost your productivity.
-DiCivil Design provides tools focused on civil design workflows.
+DiCivil Design includes 4 Autodesk Civil 3D tools focused on improving design workflows.
+This guide explains how each tool works, with step-by-step descriptions and animated GIFs that show how the tools behave.
 
 ### Included in DiCivil Design
 - Grading Pro
@@ -13,6 +13,7 @@ DiCivil Design provides tools focused on civil design workflows.
 
 ### Useful links
 [Videos & Documentation](https://docs.dicivil-design.diroots.com/)
+[DiCivil Manage Documentation](https://docs.dicivil-manage.diroots.com/)
 [Provide Feedback](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
 [Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiCivil)
 

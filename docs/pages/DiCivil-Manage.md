@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DiCivil Manage
-nav_order: 5
+nav_order: 9
 permalink: /docs/dicivil-manage
 ---
 
