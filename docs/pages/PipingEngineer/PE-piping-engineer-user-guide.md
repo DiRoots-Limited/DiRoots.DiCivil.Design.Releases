@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Piping Engineer User Guide
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: /docs/piping-engineer-user-guide
 ---

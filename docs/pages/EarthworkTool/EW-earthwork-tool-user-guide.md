@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earthwork Tool User Guide
-nav_order: 5
+nav_order: 6
 has_children: true
 permalink: /docs/earthwork-tool-user-guide
 ---
