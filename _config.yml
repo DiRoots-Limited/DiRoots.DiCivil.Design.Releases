@@ -1,5 +1,10 @@
 remote_theme: just-the-docs/just-the-docs
 
+# Canonical site URL with HTTPS. Jekyll's absolute_url is baked into assets/js/just-the-docs.js
+# for Lunr search; if this is http while the site is served over https, the browser blocks the
+# search-data.json request (mixed content) and search stops working.
+url: "https://docs.dicivil-design.diroots.com"
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/diroots-main-logo.png "
 
