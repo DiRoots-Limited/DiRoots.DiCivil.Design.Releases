@@ -44,12 +44,12 @@ Full surface calculation allows you to:
 
 1. **Open Earthwork Tool** from the DiRoots tab in Civil 3D.
 2. In the main interface, click **Add Full Volume Surface** to start a new calculation.
-3. **Select Existing Surface** – Choose the current ground surface representing pre-construction conditions.
-4. **Select Proposed/Future Surface** – Choose the design or future ground surface representing post-construction conditions.
+3. **Select Existing Surface** - Choose the current ground surface representing pre-construction conditions.
+4. **Select Proposed/Future Surface** - Choose the design or future ground surface representing post-construction conditions.
 5. Click the **Execute** button to run the calculation and generate cut and fill volumes.
 
 ![Full Volume Surface Workflow](../../../assets/images/GIFs/ET/Full-Volume-Surface-Workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 #### Calculation Results
 
@@ -109,7 +109,7 @@ The region workflow combines parent and child regions to create a hierarchical c
    - Type column shows "Child Region" for identification
 
 ![Integrated parent-child region creation and management workflow](../../../assets/images/GIFs/ET/Integrated-parent-child-region-creation-and-management-workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Integrated Workflow Example: Construction Phasing
 

@@ -33,7 +33,7 @@ This section defines which files are evaluated by the object filter:
 - **Files to apply** - Add one or more files (including closed files) where annotations are created.
 
 ![File Cases To Apply On](../../../assets/images/GIFs/AA/FileCasesToApplyOn.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Object Filter
 
@@ -49,9 +49,9 @@ You can:
 - Preview matched objects with **Select Filtered**.
 
 ![Object Filter](../../../assets/images/GIFs/AA/ObjectFilter-smaller-v3.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 You can also enable labeling for **external references**. Object Filter uses a rules-based logic similar to DiRootsOne OneFilter for AutoCAD vertical products. 
 
 ![Label External References](../../../assets/images/GIFs/AA/LabelExternalReferences.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

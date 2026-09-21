@@ -36,7 +36,7 @@ For each label category, you can define one or more style-related inputs:
 - **Open style in Civil 3D** - Use the adjacent button to open or edit style definitions directly in Civil 3D.
 
 ![Label Feature Type Edition](../../../assets/images/GIFs/AA/LabelFeatureTypeEdition.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Additional Inputs For Specific Cases
 
@@ -49,7 +49,7 @@ Example: **Surface** feature with **Slope** label type can require inputs such a
 Auto Annotation exposes these inputs only when required by the selected label type.
 
 ![Additional Inputs Surface Case](../../../assets/images/GIFs/AA/AdditionalInputsSurfaceCase.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Existing Annotation Replacement Behavior
 
@@ -66,4 +66,4 @@ When re-executing:
 - Arrow vertex relocation is not reused because this behavior is not supported.
 
 ![Dragging Changing Type And Reexecuting](../../../assets/images/GIFs/AA/DraggingChangingTypeAndReexecuting.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

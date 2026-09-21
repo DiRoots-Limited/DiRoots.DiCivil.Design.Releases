@@ -37,7 +37,7 @@ Section configuration allows you to:
 Manage your Section list by creating new, setting an associated name to later refer to the configuration, duplicating and removing new types.
 
 ![Creating Duplicating and Removing](../../../assets/images/GIFs/GP/Creating-Duplicating-and-Removing.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Point Definition Methods
 
@@ -51,7 +51,7 @@ Define a point based on distance and offset:
 - **Height/Offset** - Specify offset values from the previous point or origin.
 
 ![Distance with Offset](../../../assets/images/GIFs/GP/Distance-with-Offset.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Distance with Slope
 
@@ -61,7 +61,7 @@ Define a point based on distance and slope:
 - **Slope Percentage** - Specify slope percentage for point or origin.
 
 ![Distance with Slope](../../../assets/images/GIFs/GP/Distance-with-Slope.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Offset with Slope
 
@@ -72,7 +72,7 @@ Define a point by offset and slope:
 
 
 ![Offset with Slope](../../../assets/images/GIFs/GP/Offset-with-Slope.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Slope to Surface
 
@@ -82,7 +82,7 @@ Define points by slope from the previous point projected to the selected surface
 - **Slope Percentage** - Specify slope percentage for point elevation.
 
 ![Slope to Surface](../../../assets/images/GIFs/GP/Slope-to-Surface.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Point to Feature Line
 
@@ -96,7 +96,7 @@ This method allows you to create sections that align with existing feature lines
 Since the new target intersection point at the feature line is unknown before execution, the section view result could be different from the real transversal section created when using this method. In the section view when using this method, it shows an horizontal arrow with a semi-circular reference. 
 
 ![Point to Feature Line](../../../assets/images/GIFs/GP/Point-to-Feature-Line.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Nested Section
 Grading Pro allows you to create nested sections that can be placed at different locations and orientations, enabling advanced and flexible grading designs. Nested sections are created at runtime and can reference other sections within your design.
@@ -115,7 +115,7 @@ This method enables you to create advanced and flexible grading designs by nesti
 The following example demonstrates adding 2 nested sections 'New Section (2)' to an object defined by 'New Section (1)':
 
 ![Nested Section At Object](../../../assets/images/GIFs/GP/GP-Nested-Section-At-Object.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Object Feature Line Integration
@@ -151,7 +151,7 @@ Follow these steps to add feature lines to your section definitions:
    Define the orientation by selecting which end or direction the feature line should follow. Adjust rotation or placement as needed to ensure the feature line aligns correctly with your section design.
 
 ![Object Feature Line Integration](../../../assets/images/GIFs/GP/Object-Feature-Line-Integration.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Applications
 
@@ -166,14 +166,14 @@ Feature line integration supports various grading design scenarios.
 - The first point could be placed on the origin (0, 0) or at a distance offset from the origin.
 
 ![Point Management First Point](../../../assets/images/GIFs/GP/Point-Management-First-Point.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Adding and Removing Points
 
 Add or remove points to section setups:
 
 ![Point Management Adding and Removing Points](../../../assets/images/GIFs/GP/Point-Management-Adding-and-Removing-Points.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ### Reordering Points
@@ -181,7 +181,7 @@ Add or remove points to section setups:
 Reorder points in section definitions:
 
 ![Point Management Reordering Points](../../../assets/images/GIFs/GP/Point-Management-Reordering-Points.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Parallel Creation
 
@@ -189,9 +189,9 @@ You can connect section points with a **parallel offset connection** from the or
 
 **In the Section Setup configuration table:**
 
-- **Parallel Connection checkbox column** – The point table includes a *Parallel Connection* column. For each point, check the box to use a parallel offset connection from the reference for that point. When checked, the point is included in the parallel feature line; when unchecked, it is not.
+- **Parallel Connection checkbox column** - The point table includes a *Parallel Connection* column. For each point, check the box to use a parallel offset connection from the reference for that point. When checked, the point is included in the parallel feature line; when unchecked, it is not.
 
 The tool creates the **parallel feature line** from the **first section placement** through the **last section placement**. The feature line follows the **location and elevation** defined by the section at each placement, so the grading stays consistent with your section definition along the full extent.
 
 ![Point Management Reordering Points](../../../assets/images/GIFs/GP/Parallel-Creation.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

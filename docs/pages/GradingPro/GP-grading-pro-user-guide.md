@@ -37,5 +37,5 @@ Grading Pro modifies or creates surfaces based on sections positioned from a ref
 5. **Apply Changes** - Execute the surface modifications.
 
 ![Basic Workflow](../../../assets/images/GIFs/GP/Basic-Workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 

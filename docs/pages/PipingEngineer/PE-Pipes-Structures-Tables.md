@@ -52,7 +52,7 @@ The tools allows you to customize the data columns you want to show in each of y
 
 ## Example Usage Cases
 
-After configuring the column preferences of the table, the user can edit the properties required. For example, we have the following edition cases:
+After configuring the column preferences of the table, the user can edit the properties required. For example, we have the following editing cases:
 
 ### Part Swapping
 
@@ -92,7 +92,7 @@ Piping Engineer allows users to define a quick rule to check the slope range in 
 
 Piping Engineer includes the 'Find and Replace' feature to quickly find and replace property values across selected columns. This feature allows you to edit values efficiently by finding current editable property values and replacing them with new values, optionally adding prefixes and suffixes.
 
-For more information about the 'Find and Replace' feature, including usage instructions, see the [Find and Replace section](../StyleHelper/SH-Editing-Features.md#find-and-replace) in the Style Helper User Guide.
+For more information about the 'Find and Replace' feature, including usage instructions, see the [Find and Replace section](https://docs.dicivil-manage.diroots.com/docs/pages/StyleHelper/SH-Editing-Features.html#find-and-replace) in the Style Helper User Guide.
 
 ## Refreshing Latest Data
 

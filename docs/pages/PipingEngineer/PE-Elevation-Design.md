@@ -18,7 +18,7 @@ nav_order: 3
 
 # Elevation Design
 
-Piping Engineer provides advanced elevation design capabilities with auto-edition mode that includes hold reference options and automatic flow direction adjustments.
+Piping Engineer provides multiple elevation design capabilities with different hold reference options, structure drop, pipe reference selection and with auto-editing mode for automatic flow direction adjustments .
 
 
 ## Overview
@@ -27,10 +27,12 @@ Elevation design allows you to:
 - Select the elevation design reference point (Invert, Center, or Crown) for displaying and calculating pipe elevations.
 - Set structure drop values to position pipes at structure location based on flow direction.
 - Control piping network elevations with multiple reference strategies
+- Edit an entire pipe run by defining start/end elevations, slope, and structure drop
+- Generate profile views from branched pipe networks with flow-sorted layout
 - Automatically adjust pipes near edited elements to maintain system flow by gravity (when Auto Flow Edition is enabled)
 - Maintain system integrity during elevation modifications
 
-By selecting the elevation design reference, setting the structure drop, and modifying the 'Slope', 'Start Elevation', 'End Elevation' and using the Edition Modes inputs of 'Hold Reference' and 'Auto Flow Edition', the user can design easily their pipes in elevation.
+By selecting the elevation design reference, setting the structure drop, and modifying the 'Slope', 'Start Elevation', 'End Elevation' and using the Editing Modes inputs of 'Hold Reference' and 'Auto Flow Edition', the user can design their pipes in elevation.
 
 
 ## Elevation Design Inputs
@@ -135,9 +137,8 @@ Holds the pipe start or pipe end as the elevation reference, or the user can mod
 
 - **Pipe Start**. References the starting point elevation of the pipe
 - **Pipe End**. Reference the ending point elevation of the pipe
-- In this mode the user can modify the elevations directly using the edition modes
+- In this mode the user can modify the elevations directly using the editing modes
 - See [example 5](#example-5-editing-pipe-holding-start-or-end-reference) 
-
 
 ## General Workflow
 
@@ -149,6 +150,67 @@ Holds the pipe start or pipe end as the elevation reference, or the user can mod
 6. Enable or disable Auto Flow Edition.
 7. Set the pipe(s) new values.
 8. Apply changes.
+
+### 3. Edit Pipe Run
+
+Edit Pipe Run allows you to select a continuous pipe run and edit multiple pipe segments as one set. This is only available for **By Pipe Run** selection mode, to define the initial and last pipe or structure in the run.
+
+**How It Works:**
+
+- Select **By Pipe Run** in the selection mode options.
+- Pick the **Initial Pipe/Structure** and **Last Pipe/Structure** to define the run range.
+- Set the **Structure Drop** value before editing elevations (if needed).
+- Lock the start or end to control which elevation reference is maintained during the edit.
+- Edit **Start Elevation**, **End Elevation**, and **Slope** for the selected run.
+- Click **Apply** to update the full run in one step.
+
+**Usage:**
+
+- Use Edit Pipe Run when you need to adjust elevations for a connected sequence of pipes.
+- Structure drop is applied at each structure location along the run based on flow direction.
+
+ Example: Edit Pipe Run by Start and End Elevation
+
+![Edit Pipe Run by Start and End Elevation](../../../assets/images/GIFs/PE/PE-Edit-Pipe-Run-By-Elevation-Ends.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
+ Example: Edit Pipe Run Locking Top Reference
+
+
+![Edit Pipe Run Locking Top Reference](../../../assets/images/GIFs/PE/PE-Edit-Pipe-Run-Locking-Top.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
+
+## Create Network Profile View
+
+Piping Engineer can generate profile views directly from a pipe network, including branched networks with multiple runs.
+
+### Overview
+
+Create Profile allows you to:
+
+- Generate multiple profile views from a selected pipe network in one workflow.
+- Split branches at common structures so each run is displayed in its own profile.
+- Sort profile sections by flow direction so pipes appear in the correct sequence.
+- Include selected surfaces in the generated profiles.
+- Place the generated profile views in the drawing with an insertion point.
+
+### Workflow
+
+1. **Open Piping Engineer** - From the DiRoots tab.
+2. **Select the piping network** - Choose the network to create the profile view.
+3. **Add surfaces** - Select the surfaces you want to display in the profiles (if needed).
+4. **Create Profile** - Click the **Create Profile** button.
+5. **Place profiles** - Pick the insertion point in the drawing.
+6. **Review results** - Verify the generated profile views for each branch.
+
+### Usage
+
+- Use Create Profile when you need quick profile layouts for design review or annotation.
+- Branched networks are automatically separated at shared structures.
+
+![Create Profile](../../../assets/images/GIFs/PE/PE-Create-Profile.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Workflow Examples
 

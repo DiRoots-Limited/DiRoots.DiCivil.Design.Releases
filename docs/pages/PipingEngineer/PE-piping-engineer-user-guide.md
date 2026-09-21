@@ -16,10 +16,10 @@ Learn how to use DiCivil - Piping Engineer to design, edit and validate your pip
 
 ## Overview
 
-Piping Engineer is a comprehensive tool for designing, editing, and validating Civil 3D piping networks. The tool provides advanced elevation design capabilities, slope validation, system data edition features, and pipe and structure data edition with table interfaces.
+Piping Engineer is a comprehensive tool for designing, editing, and validating Civil 3D piping networks. The tool provides advanced elevation design capabilities, slope validation, system data editing features, and pipe and structure data editing with table interfaces.
 
 **Key Features:**
-- **Elevation Design** - Advanced elevation control with hold reference options and auto-flow edition.
+- **Elevation Design** - Advanced elevation control with hold reference options, Edit Pipe Run, Auto Flow Edition, and Create Network Profile View.
 - **System Edition** - Flexible system modification with multiple editing modes.
 - **Pipe and Structure Data Tables** - Comprehensive table interface for pipe and structure management.
 - **Profile Management** - Save and reuse configuration profiles.
@@ -30,10 +30,10 @@ Piping Engineer is a comprehensive tool for designing, editing, and validating C
 
 ### Tool Interface
 
-Piping Engineer provides an interface for managing Civil 3D piping networks. The main interface is organized into two primary tabs: **General Data** to manage the Pipe and structure data and **Elevation Design** to easilly design the pipes in elevation. 
+Piping Engineer provides an interface for managing Civil 3D piping networks. The main interface is organized into two primary tabs: **General Data** to manage the Pipe and structure data and **Elevation Design** to easily design the pipes in elevation. 
 
 ![Drawing Layers Main Interface](../../../assets/images/PNGs/PE-MainInterface.png)  
 <sub><b>Image:</b> Tool interface of Piping Engineer showing 2 tab sections</sub><br>
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/Civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 

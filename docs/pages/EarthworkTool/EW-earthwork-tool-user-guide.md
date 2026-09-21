@@ -39,7 +39,7 @@ The Earthwork Tool is accessed through the DiRoots tab in Civil 3D. The main UI 
 
 ![DiRoots-Tips select rows](../../../assets/images/PNGs/ET-CreationButtons.png)  
 <sub><b>Image:</b> Tool snapshot showing the different earthwork calculation types</sub><br>
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/Civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Basic Workflow
 
@@ -52,7 +52,7 @@ The Earthwork Tool is accessed through the DiRoots tab in Civil 3D. The main UI 
 7. **Create Reports** - Export data to Excel or create Civil3D tables.
 
 ![Demonstrate the complete workflow](../../../assets/images/GIFs/ET/Demonstrate-the-complete-workflow.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Documentation Structure
 

@@ -26,7 +26,7 @@ The main interface serves as the central hub for all Grading Pro operations, all
 
 - **Add Surface Grading** - Primary function to modify and create new surfaces.
 - **Access Setup Grading** - Configure sections and section placements.
-- **Select Reference Path** - Define the section reference path for section placement.
+- **Select Reference Path** - Define the section reference path for section placement, including alignments, feature lines, corridors, and pipes.
 - **Configure Feature Lines** - Set up feature line settings.
 - **Modify Profiles** - Adjust grading profiles as needed.
 - **Find and Define Related Gradings** - Locate and configure grading types.
@@ -43,7 +43,7 @@ The 'Add Surface Grading' button is the primary function that initiates the surf
 After adding a surface grading, choose existing surfaces to modify from your Civil 3D project or create a new one:
 
 ![Surface Selection And Creation](../../../assets/images/GIFs/GP/Surface-Selection-And-Creation.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Section Reference
 
@@ -60,20 +60,30 @@ After clicking on the column button, the user is  prompted to select a reference
   Use only the automatically generated corridor feature line as the reference.
 
 - **Feature Line**  
-  Use any existing feature line as the reference path. The stations on this objects are defined from the creation origin of the feature line.
+  Use any existing feature line as the reference path. The stations on these objects are defined from the creation origin of the feature line.
 
 - **Corridor + Auto Corridor Feature Line**  
   Use the corridor and the corridor feature line as the reference.
+
+- **Pipes**  
+  Use existing Civil 3D pipes as the section reference. The section is placed along the selected pipe run based on the configured section placement setup. This option is used for pipe trench grading workflows.
 
 Select the option that best fits your scenario. The interface will display these options in Civil3D, as shown in the image below:
 
 <img src="../../../assets/images/PNGs/reference-path-type-options.png" alt="Reference Path Type Options" style="max-width: 100%; border: 1px solid #ccc;">
 <sub><b>Image:</b> Snapshot showing the multiple reference path type options </sub><br>
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/Civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ![Section Reference](../../../assets/images/GIFs/GP/Section-Reference.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
+#### Pipes Reference Example
+
+When **Pipes** is selected as the section reference, select the target pipes in the drawing. Grading Pro uses the pipe run as the path for section placement. See the example reference below:
+
+![Pipes Section Reference Example](../../../assets/images/GIFs/GP/Pipe-Trenches.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Grading Type Name
 
@@ -96,20 +106,20 @@ For detailed information on Section Placement Setup, see [Section Placement Setu
 
 The Feature Line Settings panel allows you to configure how feature lines are created and managed as part of your grading design. In this section of the interface (see image below), you can:
 
-- **Select/Create Output Site** – Specify the target site for new feature lines.
-- **Assign Feature Line Style** – Choose the style to apply to generated feature lines.
-- **Layer Assignment** – Set the layer for output feature lines.
+- **Select/Create Output Site** - Specify the target site for new feature lines.
+- **Assign Feature Line Style** - Choose the style to apply to generated feature lines.
+- **Layer Assignment** - Set the layer for output feature lines.
 
 #### Feature Line Breakline Settings
 
 You can set **Feature Line Breakline Settings** so that when feature lines are added to the surface, they are applied as breaklines with the correct options. This ensures surfaces are built or updated consistently with your grading design.
 
-- **Default values** – If you leave any breakline options unset, the tool uses sensible defaults (as in the Civil 3D Add Breaklines workflow). You can rely on these when you don’t need to change specific settings.
-- **Input logic** – The UI follows the same input logic as Civil 3D’s **Add Breaklines** command. Extra inputs are available where needed for different breakline type cases.
-- **Profile storage** – Breakline settings are saved in grading profiles together with the rest of your configuration. Existing profiles continue to work as before; the new settings are stored without disrupting previous profile usage.
+- **Default values** - If you leave any breakline options unset, the tool uses sensible defaults (as in the Civil 3D Add Breaklines workflow). You can rely on these when you don’t need to change specific settings.
+- **Input logic** - The UI follows the same input logic as Civil 3D’s **Add Breaklines** command. Extra inputs are available where needed for different breakline type cases.
+- **Profile storage** - Breakline settings are saved in grading profiles together with the rest of your configuration. Existing profiles continue to work as before; the new settings are stored without disrupting previous profile usage.
 
 ![Feature Line Settings](../../../assets/images/GIFs/GP/Feature-Line-Settings.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ### Accessing Grading and Section Setups
@@ -131,7 +141,22 @@ Execute the surface modifications with your configured settings:
 - **Results Confirmation** - The status column shows the status of each executed grading.
 
 ![Overview](../../../assets/images/GIFs/GP/Overview.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
+#### Pipe Trenches
+
+Use this workflow to create a pipe trench or ditch surface from existing pipes:
+
+1. **Add Surface Grading** - Create a new surface grading row or use an existing one.
+2. **Set Section Reference Path Type to 'Pipe'** - Set the section reference path type to 'Pipe'.
+3. **Select pipes and reference** - Pick the Civil 3D pipes in plan and the pipe reference top, center or bottom.
+4. **Select the section** - Choose a section setup (for example, **Pipe Trench Section**).
+5. **Apply Grading** - Execute the trench grading as any other grading to generate the trench surface.
+
+![Pipe Trenches Apply Grading Example](../../../assets/images/GIFs/GP/Pipe-Trenches.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
+For section definition details, see [Section Setup](GP-Section-Setup.md). For placement along the pipe run, see [Section Placement Setup](GP-Section-Placement-Setup.md).
 
 ### Profile Modification
 

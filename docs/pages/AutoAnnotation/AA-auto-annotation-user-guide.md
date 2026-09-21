@@ -39,7 +39,7 @@ Auto Annotation creates multiple annotation label types by combining annotation 
 
 
 ![Basic Workflow](../../../assets/images/GIFs/AA/WholeWorkflow-smaller.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Next Sections

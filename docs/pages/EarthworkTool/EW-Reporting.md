@@ -36,7 +36,7 @@ Reporting features allow you to:
 
 
 ![Excel data structure and formatting](../../../assets/images/GIFs/ET/Excel-data-structure-and-formatting.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ##  Table Creation
 
@@ -51,4 +51,4 @@ The tool can create tables directly in your drawings for documentation and prese
 
 
 ![AutoCAD table creation process](../../../assets/images/GIFs/ET/AutoCAD-table-creation-process.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

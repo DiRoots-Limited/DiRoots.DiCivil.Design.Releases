@@ -22,7 +22,7 @@ The Auto Annotation interface provides a row-based workflow where each row defin
 
 <img src="../../../assets/images/PNGs/AA/annotation-settings-main-ui.png" alt="Auto Annotation Main Interface and Annotation Settings tab" style="max-width: 100%; border: 1px solid #ccc;">
 <sub><b>Image:</b> Main interface with the annotation list and right-side configuration panel.</sub><br>
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Main Workflow
 
@@ -34,7 +34,7 @@ The Auto Annotation interface provides a row-based workflow where each row defin
 6. Click **Apply** to create annotations.
 
 ![Main Workflow](../../../assets/images/GIFs/AA/WholeWorkflow-smaller.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Finding Created Annotations
@@ -47,7 +47,7 @@ After creating annotations, you can work with the generated results from selecte
 These actions help verify results and focus on specific annotation sets during iteration.
 
 ![Finding Created Annotations](../../../assets/images/GIFs/AA/FindCreatedAnnotations.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Profile Modification
 

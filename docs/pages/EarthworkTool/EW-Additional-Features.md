@@ -39,7 +39,7 @@ The tool provides dynamic volume unit management that allows you to switch betwe
 - **Acre-Feet (acre-ft)** - Large volume unit for major projects.
 
 ![Dynamic volume unit switching and real-time updates](../../../assets/images/GIFs/ET/Dynamic-volume-unit-switching-and-real-time-updates.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ### Select Object Association
 
@@ -49,7 +49,7 @@ Manage associated elements:
 - **Isolate Elements** - Focus on specific components.
 
 ![Demonstration object association](../../../assets/images/GIFs/ET/Demonstration-object-association.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Context Menu Features
@@ -61,6 +61,6 @@ The tool provides context menu functionality to interact directly with the item.
 - **Add Surface Region** - Add child region to parent or existing group.
 
 ![Context menu features and mentioned actions](../../../assets/images/GIFs/ET/Context-menu-features-and-mentioned-actions.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 

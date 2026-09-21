@@ -18,7 +18,7 @@ DiCivil includes multiple Autodesk Civil 3D Plugins to boost your productivity. 
 - Store, load, and share configuration profiles for grading design.
 
 - Perform full‑surface and region cut/fill calculations. Create stripping topsoil surfaces from existing surfaces.
-- Generate subgradebase surfaces per region from proposed surfaces.
+- Generate subgrade base surfaces per region from proposed surfaces.
 - Calculate total earthwork across multiple surfaces; dynamic units (m³, yd³, ft³, acre‑ft).
 
 - Design piping in elevation: Piping networks with elevation control, slope adjustments, system based elevation update. System‑aware elevation design with upstream/downstream auto‑adjust; hold references during edits. 
@@ -28,6 +28,6 @@ DiCivil includes multiple Autodesk Civil 3D Plugins to boost your productivity. 
 - Create and reuse annotation templates with row-based settings and scope filters; apply multiple Civil 3D label types with profile support.
 
 
-[Download](https://diroots.com/civil3d-plugins/dicivil/){: .btn .btn-di-orange }
+[Download](https://diroots.com/civil-3d-plugins/dicivil/){: .btn .btn-di-orange }
 
 Looking for DiCivil Manage documentation? Visit [docs.dicivil-manage.diroots.com](https://docs.dicivil-manage.diroots.com).

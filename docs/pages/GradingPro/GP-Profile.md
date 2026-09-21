@@ -38,4 +38,4 @@ The following settings are saved in the profiles.
 - The set of configuration applied to the entire document.
 
 ![Profile](../../../assets/images/GIFs/GP/Profile.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

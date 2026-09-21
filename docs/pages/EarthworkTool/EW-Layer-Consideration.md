@@ -43,7 +43,7 @@ The tool automatically names generated surfaces using the following convention:
 - **'FG'** - Future Ground (Proposed) surfaces.
 
 ![Overview of layer consideration capabilities](../../../assets/images/GIFs/ET/Overview-of-layer-consideration-capabilities.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Topsoil Stripping Layer
 
@@ -59,7 +59,7 @@ For region-based calculations, all child regions inherit parent stripping depth.
 
 
 ![Region-based stripping configuration with different depths](../../../assets/images/GIFs/ET/Region-based-stripping-configuration-with-different-depths.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Subgrade Base Layer
 
@@ -74,7 +74,7 @@ For region-based calculations, each child region can have its own individual sub
 
 
 ![Region-based subgrade base configuration with different depths](../../../assets/images/GIFs/ET/Region-based-subgrade-base-configuration-with-different-depths.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil3D-plugins/DiCivil/).</sub>
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
 ## Data Storage
