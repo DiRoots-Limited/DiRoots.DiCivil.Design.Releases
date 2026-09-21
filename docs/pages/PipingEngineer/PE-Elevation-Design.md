@@ -140,7 +140,9 @@ Holds the pipe start or pipe end as the elevation reference, or the user can mod
 - In this mode the user can modify the elevations directly using the editing modes
 - See [example 5](#example-5-editing-pipe-holding-start-or-end-reference) 
 
-## General Workflow
+### General Workflow
+
+This workflow applies to **Auto Flow Edition** (mode 1) and **Hold Reference Modes** (mode 2).
 
 1. Refresh the latest data.
 2. Select the Elevation Design Reference (Invert, Center, or Crown).
@@ -169,12 +171,12 @@ Edit Pipe Run allows you to select a continuous pipe run and edit multiple pipe 
 - Use Edit Pipe Run when you need to adjust elevations for a connected sequence of pipes.
 - Structure drop is applied at each structure location along the run based on flow direction.
 
- Example: Edit Pipe Run by Start and End Elevation
+#### Example: Edit Pipe Run by Start and End Elevation
 
 ![Edit Pipe Run by Start and End Elevation](../../../assets/images/GIFs/PE/PE-Edit-Pipe-Run-By-Elevation-Ends.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
- Example: Edit Pipe Run Locking Top Reference
+#### Example: Edit Pipe Run Locking Top Reference
 
 
 ![Edit Pipe Run Locking Top Reference](../../../assets/images/GIFs/PE/PE-Edit-Pipe-Run-Locking-Top.gif)
