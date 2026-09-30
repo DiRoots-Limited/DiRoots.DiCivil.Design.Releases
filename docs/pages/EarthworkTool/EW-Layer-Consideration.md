@@ -34,6 +34,9 @@ For automatic surface generation, the tool creates:
 - **Stripping Topsoil Surface** - Generated from existing ground surface with specified stripping depth.
 - **Subgrade Base Surface** - Generated from proposed surface with specified subgrade depth for defined regions.
 
+![Automatic surface generation](../../../assets/images/GIFs/ET/Automatic-Surface-Generation.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
+
 #### Surface Naming Convention
 
 The tool automatically names generated surfaces using the following convention:
@@ -41,9 +44,6 @@ The tool automatically names generated surfaces using the following convention:
 - **'STRIP'** - Stripping Topsoil surfaces.
 - **'EG'** - Existing Ground surfaces.
 - **'FG'** - Future Ground (Proposed) surfaces.
-
-![Overview of layer consideration capabilities](../../../assets/images/GIFs/ET/Overview-of-layer-consideration-capabilities.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Topsoil Stripping Layer
 

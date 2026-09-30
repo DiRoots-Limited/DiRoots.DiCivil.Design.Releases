@@ -51,8 +51,8 @@ Click on the column header and sort it by number or alphabetically.  Note that n
 
 DiCivil plugins have a great advantage for making bulk actions and saving time. To make it simpler, you don't need to select row by row. Just select one, press the Shift button on your keyboard, and then select the last row. Now you have several rows selected to perform the batch actions.
 
-<!-- ![Select multiple rows](../assets/images/Tips/Select-multiple-rows.gif)
-<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub> -->
+![Select multiple rows](../assets/images/Tips/Select-multiple-rows.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 ## Double-click in Preferences User Interface
 

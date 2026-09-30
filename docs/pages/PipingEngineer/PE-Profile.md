@@ -28,6 +28,5 @@ The following settings are saved in the profiles.
 - The customized Preferences for the Structure Table.
 - The customized Override Rules Settings.
 
-
-> **GIF Placeholder:** Demonstrate new profile creation
-
+![Demonstrate new profile creation](../../../assets/images/GIFs/PE/PE-Create-Profile.gif)
+<sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
