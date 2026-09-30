@@ -193,5 +193,5 @@ You can connect section points with a **parallel offset connection** from the or
 
 The tool creates the **parallel feature line** from the **first section placement** through the **last section placement**. The feature line follows the **location and elevation** defined by the section at each placement, so the grading stays consistent with your section definition along the full extent.
 
-![Point Management Reordering Points](../../../assets/images/GIFs/GP/Parallel-Creation.gif)
+![Parallel connection creation](../../../assets/images/GIFs/GP/Parallel-Creation.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

@@ -35,7 +35,7 @@ You can easily undo any changes you've made before confirming them by using the 
 
 ## Resize Window
 
-Mouse over the edges of the window and click and drag to extend or reduce the window. Note that, there is a limit to how much you can reduce the window, to ensure that all the information in the window is displayed.
+Mouse over the edges of the window and click and drag to extend or reduce the window. Note that there is a limit to how much you can reduce the window, to ensure that all the information in the window is displayed.
 
 ![Resize Window](../assets/images/Tips/Resize-Window.gif)
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

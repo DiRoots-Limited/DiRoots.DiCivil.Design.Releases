@@ -42,7 +42,7 @@ Pipe and structure data tables allow you to:
 
 ## Table Column Preferences Customization
 
-The tools allows you to customize the data columns you want to show in each of your tables by clicking on the 'Preferences' button and adding the required properties in the lef panel as shown below.
+The tool allows you to customize the data columns you want to show in each of your tables by clicking on the 'Preferences' button and adding the required properties in the left panel as shown below.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Piping%20Preferences.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
@@ -75,7 +75,7 @@ The user can select the structure and update the reference of the surface from t
 
 ## Rule Validation Display
 
-The tool hightligts the pipes/structures elements that are not complying with the rules in red background color 
+The tool highlights pipe and structure elements that do not comply with the rules with a red background.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Display-Rules.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>

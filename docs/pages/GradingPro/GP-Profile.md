@@ -18,7 +18,7 @@ nav_order: 5
 
 # Profile
 
-Grading Pro includes a profile system that allows you to save and reuse grading configuration and setups, making it easy to maintain consistent configurations across multiple projects and use multiple configurated profiles quickly.
+Grading Pro includes a profile system that allows you to save and reuse grading configuration and setups, making it easy to maintain consistent configurations across multiple projects and use multiple configured profiles quickly.
 
 ## Overview
 
