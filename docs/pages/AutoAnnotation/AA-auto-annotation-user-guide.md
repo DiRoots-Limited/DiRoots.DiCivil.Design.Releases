@@ -9,12 +9,12 @@ permalink: /docs/auto-annotation-user-guide
 # Auto Annotation
 
 Learn how to configure, execute, and reuse annotation templates across projects with Auto Annotation.
+{: .fs-6 .fw-300 }
 
 <img src="{{ '/assets/images/logos/AutoAnnotationLight.png' | relative_url }}" alt="Auto Annotation Logo" width="128" style="display:block;margin:0 auto;">
 
 
 Auto Annotation creates multiple annotation label types by combining annotation settings with scope-based object filtering. You can define where labels are created, standardize templates, and re-execute them across files and projects.
-{: .fs-6 .fw-300 }
 
 **Key Features:**
 
