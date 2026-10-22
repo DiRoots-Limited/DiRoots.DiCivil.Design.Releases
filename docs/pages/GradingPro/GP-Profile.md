@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profile
-parent: Grading Pro User Guide
+parent: Grading Pro
 nav_order: 5
 ---
 
@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-# Profile
+
 
 Grading Pro includes a profile system that allows you to save and reuse grading configuration and setups, making it easy to maintain consistent configurations across multiple projects and use multiple configured profiles quickly.
 

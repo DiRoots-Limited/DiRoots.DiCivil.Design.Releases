@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reporting
-parent: Earthwork Tool User Guide
+parent: Earthwork Tool
 nav_order: 5
 ---
 
@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-# Reporting
+
 
 The Earthwork Tool provides the Excel export functionality for detailed analysis and reporting.
 

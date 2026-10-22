@@ -8,9 +8,6 @@ nav_order: 2
 {: .no_toc }
 
 DiCivil Design includes four Autodesk Civil 3D tools for design workflows: Grading Pro, Earthwork Tool, Piping Engineer, and Auto Annotation.
-Not permitted:
--	Sell/resell
--	Make modifications to the software.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

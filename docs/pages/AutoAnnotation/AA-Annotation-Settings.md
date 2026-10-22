@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Annotation Settings
-parent: Auto Annotation User Guide
+parent: Auto Annotation
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Annotation Settings
+
 
 The **Annotation Settings** tab is the first configuration tab for each annotation row. It defines the annotation type, label style behavior, and additional inputs required by specific label cases.
 

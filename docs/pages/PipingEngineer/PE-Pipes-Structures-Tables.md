@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipe and Structure Data Tables
-parent: Piping Engineer User Guide
+parent: Piping Engineer
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Selecting Network Data
+## Selecting Network Data
 
 The selection method applies to both the Elevation Design tab table and the General Data tables. The tool provides 3 modes to select your network data to display:
 
@@ -29,7 +29,7 @@ The selection method applies to both the Elevation Design tab table and the Gene
 
 ---
 
-# Pipe and Structure Data Tables
+
 
 Piping Engineer provides comprehensive table interfaces for managing pipes and structures with efficient data management and bulk operations capabilities.
 
@@ -71,7 +71,7 @@ The user can select the structure and update the reference of the surface from t
 
 ---
 
-# Additional Features
+## Additional Features
 
 ## Rule Validation Display
 

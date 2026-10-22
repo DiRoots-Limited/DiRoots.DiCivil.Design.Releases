@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Additional Features
-parent: Earthwork Tool User Guide
+parent: Earthwork Tool
 nav_order: 7
 ---
 
@@ -16,7 +16,7 @@ nav_order: 7
 
 ---
 
-# Additional Features
+
 
 The Earthwork Tool provides additional features for enhanced workflow, data management, and user experience.
 

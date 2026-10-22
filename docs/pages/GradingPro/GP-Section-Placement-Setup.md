@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section Placement Setup
-parent: Grading Pro User Guide
+parent: Grading Pro
 nav_order: 4
 ---
 
@@ -16,7 +16,7 @@ nav_order: 4
 
 ---
 
-# Section Placement Setup
+
 
 Grading Pro provides Section Placement Setup capabilities for creating and organizing section placements along reference paths with individual and range-based configurations.
 
@@ -60,6 +60,7 @@ Configure individual section placement settings:
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 > **Note:** You can also add a station directly from the main UI, as described in the "Creating Individual Section Placements from Main UI" section at the end of this page.
+{: .note }
 
 ## Range-based Section Placements
 
