@@ -79,7 +79,7 @@ The tool highlights pipe and structure elements that do not comply with the rule
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Display-Rules.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
-### Quick Slope Override Rule 
+### Quick Slope Override Rule
 Piping Engineer allows users to define a quick rule to check the slope range in the tool.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Pipe%20Slope%20Override.gif)  
