@@ -59,6 +59,27 @@ blockquote.important {
   line-height: 1.5;
 }
 
+blockquote.note > *,
+blockquote.new > *,
+blockquote.warning > *,
+blockquote.important > * {
+  margin: 0.25rem 0;
+}
+
+blockquote.note > :first-child,
+blockquote.new > :first-child,
+blockquote.warning > :first-child,
+blockquote.important > :first-child {
+  margin-top: 0;
+}
+
+blockquote.note > :last-child,
+blockquote.new > :last-child,
+blockquote.warning > :last-child,
+blockquote.important > :last-child {
+  margin-bottom: 0;
+}
+
 p.note,
 blockquote.note {
   color: #1e40af;
