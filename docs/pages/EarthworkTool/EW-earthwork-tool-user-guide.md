@@ -1,20 +1,19 @@
 ---
 layout: default
-title: Earthwork Tool User Guide
+title: Earthwork Tool
 nav_order: 6
 has_children: true
 permalink: /docs/earthwork-tool-user-guide
 ---
 
-# Earthwork Tool User Guide
+# Earthwork Tool
 
-{: .fs-6 .fw-300 }
 
 <img src="{{ '/assets/images/logos/EarthWorkLight.png' | relative_url }}" alt="Earthwork Tool Logo" width="128" style="display:block;margin:0 auto;">
 
-## Overview
 
 The Earthwork Tool helps you easily perform earthwork cut and fill volume calculations, including region-based volume calculations, considering topsoil stripping and subgrade base layers. It's your solution for construction earthwork workflows, built for accuracy and speed.
+{: .fs-6 .fw-300 }
 
 **Key Features:**
 - **Full Volume Surface** - Complete surface comparison between surfaces for cut/fill calculations.

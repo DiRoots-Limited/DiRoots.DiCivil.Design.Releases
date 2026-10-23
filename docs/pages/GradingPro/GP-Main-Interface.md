@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Main Interface
-parent: Grading Pro User Guide
+parent: Grading Pro
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Main Interface
+
 
 The Grading Pro tool is accessed through the DiRoots tab in Civil 3D. The main interface provides a comprehensive workflow for surface grading operations, from initial setup to final application.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calculations
-parent: Earthwork Tool User Guide
+parent: Earthwork Tool
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-# Calculations
+
 
 The Earthwork Tool provides comprehensive calculation capabilities for cut and fill analysis with both full surface comparisons and region-based calculations.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section Setup
-parent: Grading Pro User Guide
+parent: Grading Pro
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Section Setup
+
 
 Grading Pro provides a section setup capability with multiple definition methods for precise grading design.
 
@@ -108,9 +108,10 @@ Define a nested section that can be placed at any direction from any location us
 
 This method enables you to create advanced and flexible grading designs by nesting different sections at various locations and orientations. The nested section is created at runtime, with the point position calculated using the projected direction.
 
-**Important Notes:**
-- The nested section could not necessarily be set on the same section plane as the parent section. The nested section position is set based to the Object defined point and direction. 
-- This method does not modify subsequent points in the section.
+> **Important:** The nested section may not lie on the same section plane as its parent. Its position is based on the point and direction defined for the object.
+>
+> - This method does not modify subsequent points in the section.
+{: .important }
 
 The following example demonstrates adding 2 nested sections 'New Section (2)' to an object defined by 'New Section (1)':
 

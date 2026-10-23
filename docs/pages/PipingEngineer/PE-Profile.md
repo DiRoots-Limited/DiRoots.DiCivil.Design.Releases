@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profile
-parent: Piping Engineer User Guide
+parent: Piping Engineer
 nav_order: 6
 ---
 
@@ -16,7 +16,7 @@ nav_order: 6
 
 ---
 
-# Profile
+
 
 Piping Engineer profile makes it easy to save your settings and reuse them later.
 

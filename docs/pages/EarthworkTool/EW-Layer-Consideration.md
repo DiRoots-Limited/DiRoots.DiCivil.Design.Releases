@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layer Consideration
-parent: Earthwork Tool User Guide
+parent: Earthwork Tool
 nav_order: 4
 ---
 
@@ -16,7 +16,7 @@ nav_order: 4
 
 ---
 
-# Layer Consideration
+
 
 The Earthwork Tool provides layer consideration capabilities with two optional layers that make earthwork calculations easier since the topsoil stripping and subgrade base layers are usually considered when performing earthwork calculations.
 
@@ -84,7 +84,8 @@ For region-based calculations, each child region can have its own individual sub
 The tool stores the calculation data for analysis and reporting in the file:
 
 
-- **Structured Organization** - Tool creates specific folder and surface naming structure.
-- **Critical Structure** - If surface names are modified, data will not display correctly.
-- **User Warning** - Do not manually modify created folders or surface names as it could affect the available data in the tool.
+- **Structured organization** - The tool creates a specific folder and surface naming structure.
+
+> **Warning:** Do not rename the generated folders or surfaces. DiCivil uses their names to load calculation data, so changing them can prevent that data from appearing in the tool.
+{: .warning }
 

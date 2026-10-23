@@ -1,21 +1,19 @@
 ---
 layout: default
-title: Grading Pro User Guide
+title: Grading Pro
 nav_order: 5
 has_children: true
 permalink: /docs/grading-pro-user-guide
 ---
 
 
-# Grading Pro User Guide
+# Grading Pro
 
-Learn how to use Grading Pro to create or modify surfaces reusable across different project.
+Learn how to use Grading Pro to create or modify surfaces reusable across different projects.
+{: .fs-6 .fw-300 }
 
 <img src="{{ '/assets/images/logos/GradingProLight.png' | relative_url }}" alt="Grading Pro Logo" width="128" style="display:block;margin:0 auto;">
 
-{: .fs-6 .fw-300 }
-
-## Overview
 
 Grading Pro modifies or creates surfaces based on sections positioned from a reference. The defined sections and setup can be stored and reused across projects. Whether you're designing proposed terrain, pads, or optimizing cut/fill, Grading Pro takes the complexity out of site grading with multi-criteria reusable surface design.
 

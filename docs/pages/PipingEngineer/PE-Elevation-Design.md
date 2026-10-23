@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elevation Design
-parent: Piping Engineer User Guide
+parent: Piping Engineer
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 
 ---
 
-# Elevation Design
+
 
 Piping Engineer provides multiple elevation design capabilities with different hold reference options, structure drop, pipe reference selection, and an auto-editing mode for automatic flow direction adjustments.
 

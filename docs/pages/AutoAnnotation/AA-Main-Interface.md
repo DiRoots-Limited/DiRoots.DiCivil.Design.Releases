@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Main Interface
-parent: Auto Annotation User Guide
+parent: Auto Annotation
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Main Interface
+
 
 The Auto Annotation interface provides a row-based workflow where each row defines one annotation setup. The left table manages annotation rows, and the right panel shows the selected row configuration through two tabs: **Annotation Settings** and **Scope**.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipe and Structure Data Tables
-parent: Piping Engineer User Guide
+parent: Piping Engineer
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-# Selecting Network Data
+## Selecting Network Data
 
 The selection method applies to both the Elevation Design tab table and the General Data tables. The tool provides 3 modes to select your network data to display:
 
@@ -29,7 +29,7 @@ The selection method applies to both the Elevation Design tab table and the Gene
 
 ---
 
-# Pipe and Structure Data Tables
+
 
 Piping Engineer provides comprehensive table interfaces for managing pipes and structures with efficient data management and bulk operations capabilities.
 
@@ -71,31 +71,27 @@ The user can select the structure and update the reference of the surface from t
 
 ---
 
-# Additional Features
+## Additional Features
 
-## Rule Validation Display
-
+### Rule Validation Display
 The tool highlights pipe and structure elements that do not comply with the rules with a red background.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Display-Rules.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
-## Quick Slope Override Rule 
-
+### Quick Slope Override Rule
 Piping Engineer allows users to define a quick rule to check the slope range in the tool.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Pipe%20Slope%20Override.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of DiCivil Package](https://diroots.com/civil-3d-plugins/dicivil/).</sub>
 
 
-## Find and Replace
-
+### Find and Replace
 Piping Engineer includes the 'Find and Replace' feature to quickly find and replace property values across selected columns. This feature allows you to edit values efficiently by finding current editable property values and replacing them with new values, optionally adding prefixes and suffixes.
 
 For more information about the 'Find and Replace' feature, including usage instructions, see the [Find and Replace section](https://docs.dicivil-manage.diroots.com/docs/pages/StyleHelper/SH-Editing-Features.html#find-and-replace) in the Style Helper User Guide.
 
-## Refreshing Latest Data
-
+### Refreshing Latest Data
 The tool has a refresh button to update the latest data from the file.
 
 ![DiRoots-Tips select rows](../../../assets/images/GIFs/PE/PE-Refresh%20Latest%20Data.gif)  
@@ -104,8 +100,7 @@ The tool has a refresh button to update the latest data from the file.
 
 
 
-## Basic Workflow
-
+### Basic Workflow
 1. **Open Piping Engineer** - From the DiRoots tab.
 2. **Select Network** - Choose the piping network to work with.
 3. **Choose Tool** - Select the appropriate tool tab(Elevation Design, General Data.).

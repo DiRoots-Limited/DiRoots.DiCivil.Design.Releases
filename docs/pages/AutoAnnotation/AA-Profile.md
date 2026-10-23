@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profile
-parent: Auto Annotation User Guide
+parent: Auto Annotation
 nav_order: 5
 ---
 
@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-# Profile
+
 
 Auto Annotation includes a profile system to store and reuse complete annotation template configurations across projects.
 

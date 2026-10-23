@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scope
-parent: Auto Annotation User Guide
+parent: Auto Annotation
 nav_order: 4
 ---
 
@@ -16,7 +16,7 @@ nav_order: 4
 
 ---
 
-# Scope
+
 
 The **Scope** tab defines where annotations are created for each annotation row. It is divided into two main sections:
 
